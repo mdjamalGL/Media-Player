@@ -1,0 +1,3 @@
+/home/jamal/GloApp/build/CMakeFiles/GloApp.dir
+/home/jamal/GloApp/build/CMakeFiles/edit_cache.dir
+/home/jamal/GloApp/build/CMakeFiles/rebuild_cache.dir
